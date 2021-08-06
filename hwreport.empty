@@ -1,0 +1,5 @@
+ -- Inventory host name: hostname                            
+ -- Total memory in MB: memory 
+ -- BIOS version: bios_version
+ -- Size of disk device vda: vda_size       
+ -- Size of disk device vdb: vdb_size 
